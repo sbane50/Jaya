@@ -116,7 +116,11 @@ function drawText() {
 
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
-        ["Gheegle:", "(n.) the urge to pinch or squeeze something that is unbearably cute"],
+        [
+          "Gheegle:",
+          "(n.) the urge to pinch or squeeze",
+          "something that is unbearably cute"
+        ],
         canvas.width / 2,
         canvas.height / 2,
         fontSize,
@@ -137,7 +141,11 @@ function drawText() {
 
     if (window.innerWidth < 600) {
       drawTextWithLineBreaks(
-        ["Gheegle:", "(n.) the urge to pinch or squeeze something that is unbearably cute"],
+        [
+          "Gheegle:",
+          "(n.) the urge to pinch or squeeze",
+          "something that is unbearably cute"
+        ],
         canvas.width / 2,
         canvas.height / 2,
         fontSize,
@@ -208,7 +216,8 @@ function drawText() {
       drawTextWithLineBreaks(
         [
           "Agape: ",
-          "(n.) the highest form of love, which persists no matter the circumstance",
+          "(n.) the highest form of love,",
+          "which persists no matter the circumstance",
         ],
         canvas.width / 2,
         canvas.height / 2,
