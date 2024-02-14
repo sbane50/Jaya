@@ -168,7 +168,7 @@ function drawText() {
   if (frameNumber > 1200 && frameNumber < 1500) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "Basorexia: (n.) the overwhelmig desire to kiss",
+      "Basorexia: (n.) the overwhelming desire to kiss",
       canvas.width / 2,
       canvas.height / 2
     );
@@ -177,7 +177,7 @@ function drawText() {
   if (frameNumber >= 1500 && frameNumber < 1800) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "Basorexia: (n.) the overwhelmig desire to kiss",
+      "Basorexia: (n.) the overwhelming desire to kiss",
       canvas.width / 2,
       canvas.height / 2
     );
